@@ -24,11 +24,11 @@ from telegram.ext import (
 # ─────────────────────────────────────────────
 #  CONFIG — Fill these in before running
 # ─────────────────────────────────────────────
-BOT_TOKEN        = "YOUR_BOT_TOKEN"          # From @BotFather
-API_ID           = 12345678                  # From my.telegram.org (integer)
-API_HASH         = "your_api_hash_here"      # From my.telegram.org (string)
-PHONE_NUMBER     = "+91XXXXXXXXXX"           # Your Telegram account number
-SIGNER_BOT       = "@apksignerbot"           # Username of the signer bot
+BOT_TOKEN        = "8298292446:AAFNUs_UOS_wSwCySMpWlDYmCJxv6Oq-Vuw"          # From @BotFather
+API_ID           = 39913572                  # From my.telegram.org (integer)
+API_HASH         = "f67b4916275fdc00f15bcc4ad60100af"      # From my.telegram.org (string)
+PHONE_NUMBER     = "+919835687961"           # Your Telegram account number
+SIGNER_BOT       = "@android_protect_bot"           # Username of the signer bot
 SESSION_NAME     = "proxy_session"           # Name for saved session file
 # ─────────────────────────────────────────────
 
